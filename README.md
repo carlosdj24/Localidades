@@ -8,3 +8,7 @@ Este proyecto trata sobre las localidades con más solera de la provincia de Sev
 - [Coria del río](coria.md)
 - [Gelves](gelves.md)
 - [Puebla del río](puebla.md)
+
+## Referencias
+
+## Licencia
